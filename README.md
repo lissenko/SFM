@@ -15,8 +15,8 @@ and delete files.
 ## Installation
 
 ```
-git clone git@github.com:berimbo/sfm.git
-cd sfm
+git clone git@github.com:berimbo/SFM.git
+cd SFM
 make install
 ```
  
