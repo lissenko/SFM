@@ -4,7 +4,7 @@ ODIR := obj
 SDIR := src
 IDIR := include
 
-NAME := sfm
+NAME := SFM
 BUILD := $(ODIR)/$(NAME)
 SRCS := $(shell find $(SDIR)/ -type f -name '*.cpp')
 OBJS := $(patsubst $(SDIR)/%.cpp,$(ODIR)/%.o,$(SRCS))
