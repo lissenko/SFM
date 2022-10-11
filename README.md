@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <img width="650" src="https://github.com/berimbo/SFM/sfm.png">
+  <img width="650" src="https://github.com/berimbo/SFM/blob/main/sfm.png">
 </div>
 
 **WARNING**: SFM is still in development, it lacks a lot of essential features
