@@ -11,7 +11,7 @@ namespace Config
         /* Themes to pick from:
          * GREEN, BLUE, RED, BLACK, YELLOW, MAGENTA, CYAN 
          */
-        constexpr Theme theme = MAGENTA;
+        constexpr Theme theme = RED;
         constexpr Theme checkedTheme = YELLOW;
         constexpr Theme altColorTheme = BLUE;
 

@@ -2,7 +2,7 @@
 
 void History::saveState(const fs::path& currentPath, const fs::path& selectedPath, const size_t& offset) noexcept
 {
-        tracker[currentPath] = {selectedPath, offset};
+        tracker[currentPath] = { selectedPath, offset };
 }
 
 void History::restoreState(const fs::path& currentPath, const fs::path& previousPath, DirInfo& dirInfo) noexcept

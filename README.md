@@ -1,4 +1,15 @@
-# SFM
+<h1 align="center">
+    SFM
+</h1>
+
+<p align="center">
+    A file explorer for the terminal inspired by
+    <a href="https://github.com/ranger/ranger" title="Ranger">ranger</a>
+</p>
+
+<div align="center">
+  <img width="650" src="https://github.com/berimbo/SFM/sfm.png">
+</div>
 
 **WARNING**: SFM is still in development, it lacks a lot of essential features
 to make a good file explorer. Use it as a simple way to browse, open, rename
@@ -10,8 +21,6 @@ and delete files.
 - Fast and minimal.
 - Written in C++ using the ncurses library
  
-![screenshot](sfm.png)
-
 ## Installation
 
 ```
