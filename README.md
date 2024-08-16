@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <img width="650" src="https://github.com/berimbo/SFM/blob/main/sfm.png">
+  <img width="650" src="https://github.com/lissenko/SFM/blob/main/sfm.png">
 </div>
 
 **WARNING**: SFM is still in development, it lacks a lot of essential features
@@ -24,7 +24,7 @@ and delete files.
 ## Installation
 
 ```
-git clone git@github.com:berimbo/SFM.git
+git clone git@github.com:lissenko/SFM.git
 cd SFM
 make install
 ```
